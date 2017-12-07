@@ -76,14 +76,12 @@ iframe {
 
 .TitlesForOther h2 {
   font-size: 16px;
-  padding-top: 0px;
-  margin-top: 0px;
+  padding-top: 27px;
   text-align: center; }
 
 #AboutMe {
   padding-top: 20px;
-  font-size: 15px;
-  padding-bottom: 50px; }
+  font-size: 15px; }
   #AboutMe img {
     padding-left: 5%;
     width: 67%;
@@ -101,7 +99,8 @@ iframe {
     color: white;
     font-family: 'Oxygen', sans-serif;
     font-size: 18px;
-    text-align: center; }
+    text-align: center; 
+    padding-top:20px;}
   #BottomLinks a:link {
     color: #ca6f6f;
     text-decoration: none; }
@@ -111,7 +110,7 @@ iframe {
 /* visited link */
 /* mouse over link */
 #Buttons {
-  padding-bottom: 50px;
+  padding-bottom:30px;
   margin: auto;
   width: 48%; }
   #Buttons img {
@@ -126,7 +125,6 @@ iframe {
   margin-left: 7%; }
 
 .Effect {
-  padding-bottom: 50px;
   width: 85%;
   padding-left: 7%; }
 
@@ -145,20 +143,16 @@ iframe {
 .Effect3 {
   width: 280px;
   margin-left: 11.5%;
-  padding-bottom: 50px;
   margin: auto; }
 
 .Effect4, .Effect5 {
   width: 280px;
-  margin-left: 50px;
-  padding-bottom: 50px;
   margin: auto; }
 
 .Effect6 {
   width: 280px;
   float: left;
-  margin-left: 36.5%;
-  padding-bottom: 50px; }
+  margin-left: 36.5%; }
 
 .PastReels iframe {
   margin-left: 4%;
@@ -212,8 +206,7 @@ iframe {
 #LowPoly {
   margin-left: 8%; }
   #LowPoly p {
-    width: 93%;
-    padding-bottom: 50px; }
+    width: 93%; }
 
 #Asylum {
   margin-left: 3%; }
@@ -228,8 +221,7 @@ iframe {
   #NHLLogos img {
     width: 97%; }
   #NHLLogos p {
-    width: 98%;
-    padding-bottom: 50px; }
+    width: 98%; }
 
 #Code {
   margin-left: 3%; }
@@ -272,7 +264,6 @@ iframe {
   #Birds p {
     clear: both;
     width: 91%;
-    padding-bottom: 50px;
     margin-left: 5%; }
 
 #Homer img {
@@ -293,7 +284,7 @@ iframe {
   display: block; }
 #TwoWorlds p {
   width: 95%;
-  padding-bottom: 20px;
+  padding-top: 20px;
   margin: auto; }
 
 #Alien img {
