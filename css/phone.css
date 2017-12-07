@@ -35,7 +35,7 @@ iframe{clear:both;margin-left:2.5%;width:93%;}
 .Effect3{width:280px;margin-left:11.5%;margin:auto;}
 .Effect4, .Effect5{width:280px;margin:auto;}
 .Effect6{width:280px;float:left;margin-left:36.5%;}
-.PastReels iframe{margin-left:4%;width:43%;height:auto;}
+.PastReels iframe{margin-left:4%;width:43%;height:auto;border:2px solid gray;}
 #Resume{color:white;margin-top:7%;background-color:rgba(0, 0, 0, 0.3);padding:0px 20px 20px 20px;}
 #Resume a:link, #Resume a:visited{color:white;}
 #Resume a:link{text-decoration:none;}
