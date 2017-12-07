@@ -70,9 +70,10 @@ iframe{clear:both;margin-left:2.5%;}
 #TwoWorlds{margin-left:6%;}
 #TwoWorlds iframe{height:auto;margin-left:0%;width:91%;}
 #TwoWorlds p{width:93%;}
+#AlienFullRenders img {height=:100%;width:100%;}
 #Alien{margin-left:6%;}
-#AlienFloatLeft img{float:left;}
-#AlienFloatRight img{float:right;}
+#AlienFloatLeft img{float:left;height=:49.75%;width:49.75%;}
+#AlienFloatRight img{float:right;height=:49.75%;width:49.75%;}
 #Alien p, #Snowman p{width:89%;}
 #Alien2 img{width:29.55%;}
 #SnowmanPadding2{margin-left:5%;}
@@ -84,8 +85,8 @@ iframe{clear:both;margin-left:2.5%;}
 #Car p{font-size:2vw;}
 #Car img{width:100%;}
 .ShipFullImages img{width:100%;}
-.ShipFloatLeft img{width="49.5%"}
-.ShipForPhone img{width="49.5%"}
+.ShipFloatLeft img{width:49.5%}
+.ShipForPhone img{width:49.5%}
 #Gavin, #Buzz{margin-left:11%;}
 #BuzzPictures, #GavinPictures{width:93%;}
 #BuzzPictures2 img{width:100%;}
