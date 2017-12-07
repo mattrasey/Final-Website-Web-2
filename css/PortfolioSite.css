@@ -67,8 +67,9 @@ h1{font-size:36px;padding-top:30px;margin-left:43%;}
 #Homer img{margin-left:10%;margin-top:5%;}
 #Homer p{width:93%;padding-bottom:50px;}
 #TwoWorlds{margin-left:6%;}
-#TwoWorlds img{margin-left:1.25%;margin-top:1%;}
+#TwoWorlds img{margin-left:1.25%;margin-top:1%;height:92%;width:92%;}
 #TwoWorlds p{width:93%;padding-bottom:50px;}
+#TwoWorlds iframe{border:2px solid gray;}
 #AlienFullRenders img {height=:100%;width:100%;}
 #AlienFloatLeft img{float:left;height=:49.75%;width:49.75%;}
 #AlienFloatRight img{float:right;height=:49.75%;width:49.75%;}
@@ -81,6 +82,7 @@ h1{font-size:36px;padding-top:30px;margin-left:43%;}
 #Gun{margin-left:2.5%;width:97%;}
 #Gun img{width:100%;}
 #Car{margin-left:7%;width:86%;}
+#SketchRenders{width:100.5%;height:100.5%;}
 .ShipFullImages img{width:100%;}
 .ShipFloatLeft img{float:left;width:49.5%}
 .ShipForPhone img{padding-left:1%;width:49.5%}
