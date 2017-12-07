@@ -21,7 +21,7 @@ iframe{clear:both;margin-left:2.5%;}
 .TitlesForOther h2{font-size:16px;padding-top:30px;text-align:center;}
 #tabletscreenvideo iframe{border:none;}
 .PastReels iframe{display:block;margin:auto;margin-top:3vw;border:2px solid gray;}
-#AboutMe{padding-top:20px;font-size:16px;padding-bottom:50px;}
+#AboutMe{padding-top:20px;font-size:16px;}
 #AboutMe img{float:left;padding-top:20px;padding-left:5%;width:36%;}
 #AboutMe p{text-indent:50px;width:50%;display:inline-block;padding-left:3%;font-size:1.8vw;}
 #BottomLinks{clear:both;padding-top:3%;}
@@ -103,3 +103,4 @@ iframe{clear:both;margin-left:2.5%;}
 #GavinPictures img{width:97%;}
 #GavinPictures2 img{width:100%;}
 #Gavin, #Buzz p{width:87%;}
+#Gavin p{width:89%;}
