@@ -16,6 +16,7 @@ iframe{clear:both;margin-left:2.5%;width:93%;}
 #fullscreenvideo, #tabletscreenvideo{display:none;}
 #phonescreenvideo{display:block;}
 .TitlesForOther h2{font-size:16px;padding-top:27px;text-align:center;}
+#phonescreenvideo iframe{border:none;}
 #AboutMe{padding-top:20px;font-size:15px;}
 #AboutMe img{padding-left:5%;width:67%;margin:auto;display:block;}
 #AboutMe p{text-indent:50px;width:85%;padding-left:8%;font-size:3.6vw;}

@@ -1,7 +1,9 @@
 @import "partials/ZoomEffect.css";@import "partials/variables.css";body{margin:0;background-image:url("../images/BG.png");width:100%;}
 #bodyContents{width:72%;margin:0 auto;overflow-y:hidden;}
 #bodyContentsMyWork{width:72%;margin:0 auto;overflow-y:hidden;}
+#OpeningLine{margin-top:14%;}
 #bodyContentsMyWork h1{color:#a2b8eb;font-family:'Oxygen', sans-serif;}
+h1{color:#a2b8eb;font-family:'Oxygen', sans-serif;text-align:center;}
 .TitlesForOther h2, #AboutMe{color:#a2b8eb;font-family:'Oxygen', sans-serif;}
 #Resume h1, #Resume h2, #Resume h3{color:#a2b8eb;font-family:'Oxygen', sans-serif;}
 #bodyContentsMyWork h1{font-size:36px;padding-top:30px;text-align:center;}
@@ -14,8 +16,10 @@ nav ul li{display:inline;padding-left:36px;font-family:'Raleway', sans-serif;col
 iframe{clear:both;margin-left:2.5%;}
 #fullscreenvideo{display:none;}
 #tabletscreenvideo{display:block;}
+#tabletscreenvideo iframe{margin:auto;display:block;}
 #phonescreenvideo{display:none;}
 .TitlesForOther h2{font-size:16px;padding-top:30px;text-align:center;}
+#tabletscreenvideo iframe{border:none;}
 .PastReels iframe{display:block;margin:auto;margin-top:3vw;border:2px solid gray;}
 #AboutMe{padding-top:20px;font-size:16px;padding-bottom:50px;}
 #AboutMe img{float:left;padding-top:20px;padding-left:5%;width:36%;}
