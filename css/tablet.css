@@ -83,8 +83,9 @@ iframe{clear:both;margin-left:2.5%;}
 #Gun img{width:100%;}
 #Car p{font-size:2vw;}
 #Car img{width:100%;}
-#ShipFloatLeft img{width="49.5%"}
-#ShipForPhone img{width="49.5%"}
+.ShipFullImages img{width:100%;}
+.ShipFloatLeft img{width="49.5%"}
+.ShipForPhone img{width="49.5%"}
 #Gavin, #Buzz{margin-left:11%;}
 #BuzzPictures, #GavinPictures{width:93%;}
 #BuzzPictures2 img{width:100%;}
