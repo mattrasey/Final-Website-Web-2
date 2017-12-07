@@ -1,6 +1,3 @@
-@import "partials/ZoomEffect.css";
-@import "partials/variables.css";
-
 body {
   margin: 0;
   background-image: url("../images/BG.png"); }
