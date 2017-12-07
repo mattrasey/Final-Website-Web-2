@@ -64,6 +64,7 @@ h1{font-size:36px;padding-top:30px;margin-left:43%;}
 #Birds img{margin-left:5%;}
 #Birds p{clear:both;width:91%;padding-bottom:50px;margin-left:5%;}
 #Homer{margin-left:6%;}
+#Homer iframe{border:2px solid gray;}
 #Homer img{margin-left:10%;margin-top:5%;}
 #Homer p{width:93%;padding-bottom:50px;}
 #TwoWorlds{margin-left:6%;}
