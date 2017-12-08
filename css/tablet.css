@@ -1,4 +1,6 @@
-@import "partials/ZoomEffect.css";@import "partials/variables.css";body{margin:0;background-image:url("../images/BG.png");width:100%;}
+@import "partials/ZoomEffect.css";
+@import "partials/variables.css";
+body{margin:0;background-image:url("../images/BG.png");width:100%;}
 #bodyContents{width:72%;margin:0 auto;overflow-y:hidden;}
 #bodyContentsMyWork{width:72%;margin:0 auto;overflow-y:hidden;}
 #OpeningLine{margin-top:14%;}
